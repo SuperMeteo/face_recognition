@@ -1,0 +1,4 @@
+python -m pip install scikit-learn
+python -m pip install pywin32
+python -m pip install opencv-contrib-python
+python -m pip install Pillow
